@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Neha/Neha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code, give talks, and do calligraphy.
 
-Here are some ideas to get you started:
+## Social
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkdin](https://www.linkedin.com/in/nehha/) | [Twitter](https://twitter.com/hellonehha) 
+
+
+## Blogs
+
+1. [Cloud](https://cloudtips.dev/)
+
+2.  [Accessibility](https://a11ytips.dev/)
