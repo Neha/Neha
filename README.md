@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-I code, give talks, and do calligraphy.
-
-## Who I am?
+## Blogs
 
 [Linkdin](https://www.linkedin.com/in/nehha/) 
 
