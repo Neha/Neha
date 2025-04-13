@@ -2,6 +2,8 @@
 
 I am working as Solution Architect at Amazon, UK. I am a tech speaker at meetups, and internation conference. I am founder of JSLovers community. 
 
+[Neha Sharma](https://www.nehasharma.dev)
+
 ## Connect with me:
 
 [Linkedin](https://www.linkedin.com/in/nehha/) 
