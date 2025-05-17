@@ -2,7 +2,7 @@
 
 Have decades of experience in buidling web apps - JavaScript, NodeJS, ReactJS , React Native, Redux, TypeScript, CSS, HTML, AWS, Cypress. 
 
-I gave 20+ tech talks on ReactJS, Accessibility, Design system, and many more technical concepts.
+I gave many tech and non-tech talks on ReactJS, Accessibility, Design system, and many more technical concepts.
 
 I also write tech blogs at [Dev.to](https://dev.to/hellonehha) and Freecodecamp. I got awarded 2x as  "Top author for 2022 and 2024" 
 
